@@ -1,0 +1,5 @@
+flask
+requests
+nltk
+numpy
+gunicorn
